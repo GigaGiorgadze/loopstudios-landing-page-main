@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/htmlcssflexbox-bootstrap-4NEnOKx7R)
+- Live Site URL: [live site URL](https://gigagiorgadze.github.io/loopstudios-landing-page-main/)
 
 ## My process
 
